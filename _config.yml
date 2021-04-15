@@ -1,9 +1,9 @@
 title: Welcome to MISL-SJTU
-author: MISL-SJTU
+author: cascades-sjtu
 email: cascades@sjtu.edu.cn
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  MISL-SJTU offical github account, powered by jekyll
+  MISL-SJTU offical github blog
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
