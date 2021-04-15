@@ -1,5 +1,5 @@
 ---
-title: "Welcome to our blog"
+title: "MISL-Mobile and Iot Security Laboratory"
 ---
 
 I'm glad you are here. 
